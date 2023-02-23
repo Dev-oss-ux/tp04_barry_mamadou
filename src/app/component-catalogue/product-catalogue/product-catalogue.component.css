@@ -1,0 +1,35 @@
+.itemCatalogue {
+    orientation: center;
+    border: 1px solid #ccc;
+    padding: 0.5em;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.imgCatalogue img {
+  width: 30em;
+  height: 20em;
+}
+
+.infoCatalogue {
+  margin: 0em 2em;
+}
+
+.infoCatalogue p {
+  padding: 0.2em;
+}
+
+
+.listCatalogue {
+  margin: 3em 17em;
+}
+
+.groupFilter {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin: 1em;
+  width: 54em;
+  border-radius: 1em;
+}
+

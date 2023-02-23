@@ -1,0 +1,20 @@
+* {
+  font-family: 'Arial', sans-serif;
+}
+
+
+html, body {
+  background-color: #757373;
+}
+
+
+
+nav {
+  margin-bottom: 2em;
+  margin: 9em;
+}
+
+label, p, a {
+  color: #fff;
+
+}

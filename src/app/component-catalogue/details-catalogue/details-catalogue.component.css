@@ -1,0 +1,10 @@
+.detailsGroup {
+    margin: 2em 2em;
+    padding: 1em;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.192);
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+

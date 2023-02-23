@@ -1,0 +1,44 @@
+.form-holder {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+}
+
+.form-holder .form-content {
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-content .form-items {
+    border: 0.1em solid rgb(255, 255, 255);
+    padding: 2em;
+    display: inline-block;
+    border-radius: 1em;
+    text-align: left;
+    margin: 1em;
+    min-width: 15em;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+label, p, h3 {
+    color: #fff;
+}
+
+
+input {
+  margin-bottom: 1em;
+  padding: 0.8em 2em;
+
+}
+
+
+
+

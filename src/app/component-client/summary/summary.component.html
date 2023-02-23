@@ -1,0 +1,22 @@
+<div class="form-body">
+  <div class="form-holder">
+    <div class="form-content">
+      <div class="form-items">
+        <h3>rendu : </h3>
+        <p>nom : {{lastname}}</p>
+        <p>prénom : {{firstname}}</p>
+        <p>code postal : {{zipCode}}</p>
+        <p>tel : {{tel | pipeFormatTel}}</p>
+        <p>email : {{email}}</p>
+        <p>sexe : {{gender}}</p>
+        <p>login : {{login}}</p>
+        <p>password : {{password}}</p>
+        <p>verification du password: {{passwordCheck}}</p>
+      <div>
+        <button (click)="Close()">Fermer</button>
+      </div>
+
+      </div>
+    </div>
+  </div>
+</div>

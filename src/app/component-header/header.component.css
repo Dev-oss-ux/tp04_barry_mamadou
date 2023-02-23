@@ -1,0 +1,17 @@
+
+h1 {
+    color: white;
+    align-items: center;
+    text-align: center;
+  }
+
+#nbStore {
+  color: black;
+  color: red;
+  padding: 0.2em;
+}
+
+#imgIconStore {
+  width: 2em;
+  height: 2em;
+}

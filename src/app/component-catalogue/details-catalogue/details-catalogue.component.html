@@ -1,0 +1,9 @@
+<div *ngIf="mushroom" class="detailsGroup">
+    <div [routerLink]="[mushroom.id]">
+        <p> Nom : {{mushroom.name}}</p>
+        <p> Description : {{mushroom.description}}</p>
+    </div>
+
+    <button class="detailsBtnAdd" (click)="addMushroomToStore(mushroom)"> Add to store $ </button> <br>
+    <a class="detailsBtn" [routerLink]="['/catalogue']"> Back </a>
+</div>

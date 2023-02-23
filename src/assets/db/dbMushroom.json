@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Amanite tue-mouches",
+    "edible": false,
+    "poisonous": true,
+    "img": "https://www.chasseursdechampigNons.com/blog/wp-content/uploads/2022/06/Des-amanites-tue-mouche-Amanita-muscaria-en-groupe.jpg",
+    "description": "Amanita muscaria, commonly known as the fly agaric or fly amanita, is a basidiomycete of the genus Amanita. It is also a muscimol mushroom. Native throughout the temperate and boreal regions of the Northern Hemisphere. Although poisonous, death due to poisoning from A. muscaria ingestion is quite rare. Parboiling twice with water draining weakens its toxicity and breaks down the mushroom's psychoactive substances.",
+    "toxicity": "Mortel"
+  },
+  {
+    "id": 2,
+    "name": "Amanite phalloïde",
+    "edible": false,
+    "poisonous": true,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Amanita_phalloides_1.JPG",
+    "description": "Amanite phalloïde is a poisonous mushroom that is found in Europe, North America, and Asia. It is one of the most toxic mushrooms in the world, and is responsible for many deaths. It is also known as the death cap, destroying angel, devil's mushroom, or inedible amanita.",
+    "toxicity": "Mortel"
+  },
+  {
+    "id": 3,
+    "name": "Amanite vireuse",
+    "edible": false,
+    "poisonous": true,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/81/Destroying_Angel_02.jpg",
+    "description": "Amanite vireuse, commonly known in Europe as the destroying angel or the European destroying angel amanita (Amanita virosa), is a poisonous mushroom that is found in Europe, North America, and Asia. It is one of the most toxic mushrooms in the world, and is responsible for many deaths.",
+    "toxicity": "Mortel"
+  },
+  {
+    "id": 4,
+    "name": "Cêpe de Bordeaux",
+    "edible": true,
+    "poisonous": false,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/Boletus_edulis_IT.jpg",
+    "description": "Boletus edulis is a basidiomycete fungus, the type species of the genus Boletus. It is commonly known as the cep, porcini, or penny bun. It is native to Europe and North America, and is widely cultivated in temperate regions. It is a large, edible mushroom with a distinctive, pleasant smell and a mild, nutty taste. It is a common ingredient in European cuisine, and is often served as a main course in restaurants. It is also used in traditional Chinese medicine.",
+    "toxicity": "Non"
+  },
+  {
+    "id": 5,
+    "name": "Champignon de Paris",
+    "edible": true,
+    "poisonous": false,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/ChampignonMushroom.jpg",
+    "description": "Champignon de Paris (Agaricus bisporus) is an edible basidiomycete mushroom native to grasslands in Europe and North America. It has two color states while immature – white and brown – both of which have various names, with additional names for the mature state.",
+    "toxicity": "Non"
+  },
+  {
+    "id": 6,
+    "name": "Champignon hallucinogène",
+    "edible": false,
+    "poisonous": true,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Psilocybe_semilanceata.jpg",
+    "description": "Psilocybe semilanceata, commonly known as the liberty cap, is a species of fungus which produces the psychoactive mushroom psilocybin.",
+    "toxicity": "Hallucinogene"
+  },
+  {
+    "id": 7,
+    "name": "Truffe",
+    "edible": true,
+    "poisonous": false,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/26/Truffe_nature.JPG",
+    "description": "Tuber melanosporum is a species of edible mushroom in the genus Tuber. It is native to Europe, where it is found in the wild in deciduous and mixed forests. It is also cultivated in many countries, and is one of the most widely cultivated species of truffle. It is one of the most expensive mushrooms in the world, and is considered a delicacy in many countries.",
+    "toxicity": "Non"
+  },
+  {
+    "id": 8,
+    "name": "Trompette de la mort",
+    "edible": true,
+    "poisonous": false,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/0_Craterellus_cornucopioides_-_Trompette_de_la_mort_%281%29.JPG",
+    "description": "Craterellus cornucopioides , or horn of plenty, is an edible mushroom. It is also known as the black chanterelle, black trumpet, trompette de la mort, and trompette de la mort noire. It is native to Europe and North America, and is widely cultivated in temperate regions. It is a large, edible mushroom with a distinctive, pleasant smell and a mild, nutty taste. It is a common ingredient in European cuisine, and is often served as a main course in restaurants.",
+    "toxicity": "Non"
+  },
+  {
+    "id": 9,
+    "name": "Girollle",
+    "edible": true,
+    "poisonous": false,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Cantharellus_cibarius1.jpg",
+    "description": "Gyromitra esculenta is an ascomycete fungus from the genus Gyromitra, widely distributed across Europe and North America. It normally fruits in sandy soils under coniferous trees in spring and early summer.",
+    "toxicity": "Non"
+  },
+  {
+    "id": 10,
+    "name": "Pleurote",
+    "edible": true,
+    "poisonous": false,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Oyster_mushoom_fells.jpg",
+    "description": "Pleurote (Pleurotus ostreatus) is a mushroom that is found in Europe, North America, and Asia. It is one of the most toxic mushrooms in the world, and is responsible for many deaths. It is also known as the death cap, destroying angel, devil's mushroom, or inedible amanita.",
+    "toxicity": "Non"
+  },
+  {
+    "id": 11,
+    "name": "Langue de boeuf",
+    "edible": true,
+    "poisonous": false,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2008-08-08_Fistulina_hepatica_crop.jpg",
+    "description": "Fistulina hepatica is an unusual bracket fungus classified in the Agaricales, that is commonly seen in Britain, but can be found in other parts of the world. It is a saprobic fungus that grows on dead wood, and is often found on the trunks of trees.",
+    "toxicity": "Non"
+  }
+]

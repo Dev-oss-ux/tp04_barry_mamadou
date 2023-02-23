@@ -1,0 +1,56 @@
+
+
+
+.form-holder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.form-holder .form-content {
+position: relative;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.form-content .form-items {
+border: 0.1em solid rgb(255, 255, 255);
+padding: 1.2em;
+display: inline-block;
+border-radius: 1em;
+text-align: left;
+margin: 1em;
+}
+
+
+
+
+label {
+margin-top: 0.5em;
+margin-right: 0.5em;
+
+}
+
+input {
+margin-bottom: 1em;
+padding: 0.8em 2em;
+
+}
+
+.form-content input[type=text], .form-content input[type=password], .form-content input[type=number], .form-content input[type=tel], .form-content input[type=tel], .form-content input[type=email], .form-content select {
+width: 80%;
+text-align: left;
+border: 0;
+outline: 0;
+border-radius: 0.8em;
+font-size: 0.7em;
+transition: all 0.3s ease;
+margin-left: 1em;
+}
+
+
+

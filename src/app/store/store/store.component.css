@@ -1,0 +1,19 @@
+.groupStore {
+    margin: 2em 5em;
+    padding: 2em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    align-items: left;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 1em;
+    border: 1px solid #ddd;
+    color: white;    
+}
+table th {
+    width: auto;
+
+}
+
